@@ -1,0 +1,33 @@
+baseURL = 'http://kristoferhallen.github.io/sherlock/'
+languageCode = 'en-us'
+title = 'Kristofer Hallén'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "about"
+weight = 10
+
+[[menu.main]]
+identifier = "library"
+name = "The library"
+url = "library"
+weight = 20
+
+[[menu.main]]
+identifier = "tag"
+name = "Tags"
+url = "/tags/"
+weight = 30
+
+[[socialicons]]
+name = "twitter"
+url = "https://twitter.com"
+
+ShowReadingTime = true
+ShowShareButtons = true
+
+[taxonomies]
+   tag = "tags"
+   category = "categories"
