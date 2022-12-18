@@ -1,6 +1,6 @@
 baseURL = 'http://kristoferhallen.github.io/sherlock/'
 languageCode = 'en-us'
-title = 'Kristofer Hallén'
+title = 'My Sherlock Holmes library'
 theme = 'PaperMod'
 
 [[menu.main]]
