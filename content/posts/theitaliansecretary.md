@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Beskriver lite av boken"
+description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -35,5 +35,5 @@ cover:
 
 ## Author: Caleb Carr
 **Pipes: 4/5**  
-A traditional pastiche, telling a new story in the style of Conan Doyle, with the same characters and in the same time period. Holmes and Watson receive a coded message from Mycroft, requesting their help to solve a mystery involving murders in a royal castle and a possible ghost, the italian secretary of Mary, Queen of Scots. Well written and keeps up the suspension all through the novel. 
+![The Italian Secretary book cover](/sherlock/TheItalianSecretary.jpg#floatleft) A traditional pastiche, telling a new story in the style of Conan Doyle, with the same characters and in the same time period. Holmes and Watson receive a coded message from Mycroft, requesting their help to solve a mystery involving murders in a royal castle and a possible ghost, the italian secretary of Mary, Queen of Scots. Well written and keeps up the suspension all through the novel. 
 

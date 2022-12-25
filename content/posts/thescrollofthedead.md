@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Beskriver lite av boken"
+description: ""
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -34,6 +34,6 @@ cover:
 
 ## Author: David Stuart Davies
 **Pipes: 3/5**  
-Holmes and Watson are searching for an Egyptian papyrus that is said to hold the secret about immortality. Other people are looking for it too, they will do anything to get hold of it. A novel i the traditional style that manages to stay in character of the original short stories althoug being longer. 
+![The Scroll of the Dead](/sherlock/the-scroll-of-the-dead.jpg#floatleft) Holmes and Watson are searching for an Egyptian papyrus that is said to hold the secret about immortality. Other people are looking for it too, they will do anything to get hold of it. A novel i the traditional style that manages to stay in character of the original short stories althoug being longer. 
 
 
