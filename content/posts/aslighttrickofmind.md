@@ -1,9 +1,9 @@
 ---
-title: "The Italian Secretary"
-date: 2022-09-15
+title: "A slight trick of mind"
+date: 2022-12-26
 # weight: 1
 # aliases: ["/first"]
-tags: ["Traditional", "Queen"]
+tags: ["Aging Holmes", "Japan"]
 author: "Kristofer Hallén"
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Author: Caleb Carr. Pipes: 4/5"
+description: "Author: Mitch Cullin. Pipes: 2/5"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -33,5 +33,5 @@ cover:
 ---
 
 
-![The Italian Secretary book cover](/sherlock/TheItalianSecretary.jpg#floatleft) A traditional pastiche, telling a new story in the style of Conan Doyle, with the same characters and in the same time period. Holmes and Watson receive a coded message from Mycroft, requesting their help to solve a mystery involving murders in a royal castle and a possible ghost, the italian secretary of Mary, Queen of Scots. Well written and keeps up the suspension all through the novel. 
+![A slight trick of mind book cover](/sherlock/aslighttrickofmind.jpg#floatleft) A novel about an aging and tired Sherlock has returned from a trip to post World War II Japan. The story switches between Sherlocks interaction with his housekeeper and her son, recollections from the trip and memories from an old case with a woman that he can't forget. His meeting with the woman was also the start of his interest in bees and beekeping. This novel focuses on Sherlocks struggle with being old with diminishing mental capabilities, there is very little focus on solving crime.
 
