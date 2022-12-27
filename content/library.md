@@ -14,7 +14,9 @@ The books I liked the most.
 ## All the books
 The books that I have reviewed in alphabetical order. 
 
-| Title |
-| ----------- | 
-| [The Italian Secretary]({{< ref "/posts/theitaliansecretary" >}}) |
-| [The Scroll of the Dead]({{< ref "/posts/thescrollofthedead" >}}) |
+| Title | Pipes (out of 5) |
+| ----------- | ----------- | 
+| [A slight trick of mind]({{< ref "/posts/aslighttrickofmind" >}}) | 2 |
+| [The Italian Secretary]({{< ref "/posts/theitaliansecretary" >}}) | 4 |
+| [The Scroll of the Dead]({{< ref "/posts/thescrollofthedead" >}}) | 3 |
+| [Trepiporsproblem och bagateller]({{< ref "/posts/trepiporsproblem" >}}) | 3 |
